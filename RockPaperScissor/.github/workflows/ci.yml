@@ -1,4 +1,4 @@
-name: RockePaperScissors Game Deployment 
+name: RockePaperScissors Game 
 
 on:
   push:
