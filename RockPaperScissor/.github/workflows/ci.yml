@@ -1,4 +1,4 @@
-name: RockePaperScissors Game 
+name: RockePaperScissors 
 
 on:
   push:
